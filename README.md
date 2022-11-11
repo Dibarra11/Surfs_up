@@ -9,7 +9,7 @@ Utilizing SQL Lite, SQL Alchemy, and Flask an app was cretaed to analyzing weath
 Data from the months of June and Decemeber where analyze to determine the fesability of openning the surf shop.
 
 June
-![image]
+![image]https://github.com/Dibarra11/Surfs_up/blob/62521ff8687471537ceb15819d57fe09aed08144/Data/1.png
 
 December
 ![image]
